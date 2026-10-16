@@ -13,7 +13,6 @@ export default function Sobre() {
         console.log('componente carregado!');
     }, []); // lista de dependência vazia indica que o efeito será executado durante o carregamento do componente
 
-
     return (
         <main>
             <h1>Sobre</h1>
